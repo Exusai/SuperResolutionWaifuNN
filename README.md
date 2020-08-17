@@ -22,3 +22,5 @@ The first image is the low ressolution input, the second is the generated image 
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter6.png?raw=true)
 ## Test 7
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter7.png?raw=true)
+## Test using non anime picture
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/imagetest.png?raw=true)
