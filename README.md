@@ -1,2 +1,19 @@
 # SuperResolutionWaifuNN
 I wanted to build my own implementation of waifu2x using Keras and TensorFlow, but I ended up using a slightly different architecture.
+It was trained on about a thousand images.
+
+# Tests
+## Test 1
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter1.png?raw=true)
+## Test 2
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter2.png?raw=true)
+## Test 3
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter3.png?raw=true)
+## Test 4
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter4.png?raw=true)
+## Test 5
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter5.png?raw=true)
+## Test 6
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter6.png?raw=true)
+## Test 7
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter7.png?raw=true)
