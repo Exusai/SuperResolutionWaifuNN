@@ -3,6 +3,7 @@ I wanted to build my own implementation of waifu2x using Keras and TensorFlow, b
 It was trained on about a thousand images.
 
 # Tests
+The first image is the low ressolution input, the second is the generated image and the third is the original high resolution image.
 ## Test 1
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfter1.png?raw=true)
 ## Test 2
