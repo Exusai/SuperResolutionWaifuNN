@@ -1,6 +1,10 @@
 # SuperResolutionWaifuNN
 I wanted to build my own implementation of waifu2x using Keras and TensorFlow, but I ended up using a slightly different architecture.
-It was trained on about a thousand images.
+
+# Training
+The model was trained on about a thousand images.
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/SRNNTimelapse.gif?raw=true)
+Better quality of the gif: https://youtu.be/GCOe5kMTM5E
 
 # Tests
 The first image is the low ressolution input, the second is the generated image and the third is the original high resolution image.
