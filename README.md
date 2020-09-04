@@ -8,7 +8,7 @@ Better quality of the gif: https://youtu.be/GCOe5kMTM5E
 
 # Test (using 8k+ images for training)
 ## Input/Output
-![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfterFin.png?raw=true)
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/BEFOREandAfterFin.png?raw=false)
 ## Tests 1
 The first image is the low ressolution input, the second is the generated image and the third is the original high resolution image.
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/srwnnTest1.png?raw=true)
