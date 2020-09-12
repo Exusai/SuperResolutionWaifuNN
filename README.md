@@ -3,6 +3,8 @@ I wanted to build my own implementation of [waifu2x](https://github.com/nagadomi
 
 Image dataset colected using [PixivUtil2](https://github.com/Nandaka/PixivUtil2).
 
+Flutter implemetation using tflite [srwnn_mobile](https://github.com/Exusai/srwnn_mobile).
+
 # Training
 The model was trained on about a thousand images.
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/SRNNTimelapse.gif?raw=true)
@@ -16,6 +18,10 @@ The first image is the low ressolution input, the second is the generated image 
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/srwnnTest1.png?raw=true)
 ## Tests 2
 ![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/srwnnTest2.png?raw=true)
+## Denoise test
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/test3%20(2).png?raw=true)
+## Deblur test
+![alt text](https://github.com/Exusai/SuperResolutionWaifuNN/blob/master/tests/testdenoise3.png?raw=true)
 
 # Test (using 1.5k images for training)
 ## Tests
