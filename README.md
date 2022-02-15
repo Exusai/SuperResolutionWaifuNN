@@ -1,4 +1,7 @@
 # SuperResolutionWaifuNN
+
+https://user-images.githubusercontent.com/47704357/153986586-6b53fed9-4b5d-4a3e-9c07-202be5b1d1c0.mp4
+
 I wanted to build my own implementation of [waifu2x](https://github.com/nagadomi/waifu2x) using Keras and TensorFlow, but I ended up using a slightly different architecture.
 
 Image dataset colected using [PixivUtil2](https://github.com/Nandaka/PixivUtil2).
